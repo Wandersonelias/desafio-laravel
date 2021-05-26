@@ -13,9 +13,16 @@ Neste desafio o candidato, deverá construi um sistema escpficamente usando o fr
 ## O Desafio:
 Criar um sistema de pequeno porte, que receba upload de arquivos em lote de notas fiscais no formato XML, e aramazene as informações da mesma no banco organizados de acordo com campos referenciados no XML inputado, e gere um relatório no formato PDF, caluculando a media de precos por nota fiscal, seguindo estes requisitos:
 
-**1.** Tela de login;
-**2.** Cadastro de usuário;
-**3.** Edição de produtos;
+1. Tela de login;
+2. Cadastro de usuário;
+3. Edição de produtos;
+4. Edição de dados do contribuite, nota fiscal;
+5. Telas coms dados por nota
+6. Tela de detalhamento dos produtos por nota;
+7. Tela de com margens de valores de tributos;
+8. Filtros para geração dos relatórios;
+9. Detalhamento do relatório, e personalização do relatório com os dados do clinte
+10. Dashbord com informções previas do que será emitido no realtório
 
 
 **Bold** and _Italic_ and `Code` text
