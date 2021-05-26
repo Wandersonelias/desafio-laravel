@@ -1,13 +1,12 @@
 # Tributei
 ## Menos operacional mais estratégico.
 
-You can use the [editor on GitHub](https://github.com/Wandersonelias/desafio-laravel/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Bem vindo, se você recebeu este link parabéns, iniciaremos agora a fase em que testaremos as suas habilidades tecnicas especificadas em seu curriculo 
+
+### Especificações do desafio para seleção do candito.
 
 
-
-### Markd
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
