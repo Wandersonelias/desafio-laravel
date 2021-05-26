@@ -25,16 +25,20 @@ Criar um sistema de pequeno porte, que receba upload de arquivos em lote de nota
 10. Dashbord com informções previas do que será emitido no realtório
 
 
-**Bold** and _Italic_ and `Code` text
+## Prazo:
+05 dias
 
-[Link](url) and ![Image](src)
+## Entrega:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Após a conclusão do desafio, o candidato deverá comprovar a conclusão do desafio da seguinte forma:
+1. Enviar o link de acesso para o avaliador com usuario e senha, para que o mesmo faça o teste do sitema;
+2. Enviar o link do repositorio hospedado no github para analise do codigo, escrito pelo candidato;
 
-### Jekyll Themes
+## Duvidas sobre a entrega:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wandersonelias/desafio-laravel/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+As duvidas sobre a entrega do desafio, podem ser exclarecidas, via WhatsApp do avaliador **(96) 99207 - 6582 Wanderson Elias**;
+**Obs: Apenas duvidas sobre a entrega.**
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
