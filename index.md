@@ -1,24 +1,17 @@
 # Tributei
-## Menos operacional mais estratégico.
+Menos operacional mais estratégico.
 
 
 Bem vindo, se você recebeu este link parabéns, iniciaremos agora a fase em que testaremos as suas habilidades tecnicas especificadas em seu curriculo 
 
-### Especificações do desafio para seleção do candito.
-
 
 
 ```markdown
-Syntax highlighted code block
+### Especificações do desafio para seleção do candito.
+#### Neste desafio o candidato, deverá construi um sistema escpficamente usando o framework Laravel, usando banco de dados mysql, e fazer o seu deploy em um serviço de hospedagem de escolha do candito e disponibilizar o acesso ao sistema para o avalidor, assim tambem como o endereço do repositorio do Git, para analise do avaliador, o sistema de deve ser baseado na lista de requisitos abaixo:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
+**1.** Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
